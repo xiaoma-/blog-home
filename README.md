@@ -1,25 +1,3 @@
-# Tomotoes-HomePage
-
-
-[![支付宝赞助按钮](https://camo.githubusercontent.com/f4874996db5ac421925db08778d800d76d36abbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545362539342541462545342542422539382545352541452539442d25453525393025393154412545362538442539302545352538412541392d677265656e2e737667)](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/alipay.png)
-
-[![微信赞助按钮](https://camo.githubusercontent.com/26101aa838286ad0d45a6f71b25fdc6e14e7668c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545352542452541452545342542462541312d25453525393025393154412545362538442539302545352538412541392d677265656e2e737667)](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/wechat.png)
-
-[中文版说明](<README.zh_CN.md>)
-
-
-
-## Introduction
-
-> `一个坏掉的番茄`  home page.
-
-[Online browsing](http://tomotoes.com)
-
-Do you want to install such a cool homepage for your website?
-
-Let's start now!
-
-
 
 ## Prerequisites
 
@@ -31,7 +9,7 @@ Let's start now!
 ## Install
 
 ```sh
-git clone https://github.com/Tomotoes/HomePage.git
+git clone https://github.com/xiaoma-/blog-home.git
 cd HomePage
 npm install
 npm run dev
@@ -73,7 +51,7 @@ such as：
 ```json
 {
 	"head": {
-		"title": "一个坏掉的番茄",
+		"title": "我的博客",
 		"description": "Author:SimonMa,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	}
